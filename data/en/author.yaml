@@ -1,0 +1,17 @@
+# some information about you
+name: "Nahuel Facello"
+nickname: "Nahuel"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hola! Soy"
+image: "images/author/nahuel.jpg"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "johndoe@example.com"
+  phone: "+0123456789"
+
+# some summary about what you do
+summary:
+  - Estudiante de progremacion UTN FRA
+  - Estudiante de la carrera de Data Science CODERHOUSE
+  - Data lover
+  - Analista de control de gestion en Accenture
