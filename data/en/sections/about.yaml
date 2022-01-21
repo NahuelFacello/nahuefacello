@@ -1,18 +1,18 @@
 # section information
 section:
-  name: About
-  id: about
+  name: Sobre mí
+  id: sobremi
   enable: true
   weight: 1
   showOnNavbar: true
   template: sections/about.html
 
 # your designation
-designation: Software Engineer
+designation: Client Financial Management en
 # your company information
 company:
-  name: Example Co.
-  url: "https://www.example.com"
+  name: Accenture
+  url: "www.accenture.com"
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/resume.pdf"

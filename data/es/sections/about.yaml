@@ -1,0 +1,75 @@
+# section information
+section:
+  name: Sobre mí
+  id: sobremi
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Client Financial Management Analyst
+# your company information
+company:
+  name: Accenture
+  url: "www.accenture.com"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/Nahuel Facello CV.pdf"
+
+# a summary about you
+summary: 'Actualmente me desepeño como Analista de control gestión en Accenture brindando soporte para USA. Me considero una persona proactiva, responsable, detallista, innovadora y entusiasta. Actualmente busco continuar mi desarrollo profesional como científico de datos '
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "nahuel-facello@live.com.ar"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/NahuelFacello/"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/nahuel-facello/"
+
+
+# Show your badges
+# You can show your verifiable certificates from https://www.credly.com.
+# You can also show a circular bar indicating the level of expertise on a certain skill
+badges:
+  
+- type: soft-skill-indicator
+  name: Análisis de Datos
+  percentage: 85
+  color: blue
+  
+- type: soft-skill-indicator
+  name: Programación
+  percentage: 85
+  color: orange
+
+- type: soft-skill-indicator
+  name: Control de Gestión
+  percentage: 85
+  color: yellow
+
+
+- type: soft-skill-indicator
+  name: Proactividad
+  percentage: 95
+  color: "#D231FF"
+
+- type: soft-skill-indicator
+  name: Trabajo en equipo
+  percentage: 90
+  color: green
+
+
+# you can also provide color code instead of the color name
+# - type: soft-skill-indicator
+#   name: Example 1
+#   percentage: 75
+#   color: "#00adb5"

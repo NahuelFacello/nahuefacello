@@ -1,0 +1,51 @@
+# section information
+section:
+  name: Educación
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: Carrera de data science
+  icon: fa-university
+  timeframe: 2021 - en curso
+  institution:
+    name: Coderhouse
+    url: "https://www.coderhouse.com/"
+
+- name: Tecnicatura en programación
+  icon: fa-microscope
+  timeframe: 2020 - en curso
+  institution:
+    name: Universidad Tecnológica Nacional FRA
+    url: "https://www.fra.utn.edu.ar/"
+  
+- name: Contador público
+  icon: fa-university
+  timeframe: 2019 - abandonada
+  institution:
+    name: Universidad de Buenos Aires
+    url: "http://www.economicas.uba.ar/"
+
+- name: Profesorado de Piano
+  icon: fa-music
+  timeframe: 2010 - 2017
+  institution:
+    name: Escuela de Bellas Artes Carlos Morel
+    url: "http://embacarlosmorel.edu.ar/morel/"
+
+- name: Bachiller en Economia y Administración
+  icon: fa-school
+  timeframe: 2007-2013
+  institution:
+    name: PATER CEE
+    url: "https://njypater.com/"
+  grade: #(optional)
+    scale: Promedio
+    achieved: 8.5
+    outOf: 10
+

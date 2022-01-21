@@ -1,0 +1,48 @@
+# section information
+section:
+  name: Cursos y certificados
+  id: accomplishments
+  enable: true
+  weight: 7
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+
+# Your accomplishments
+accomplishments:
+- name: Excel para Análisis de Datos
+  timeline: "Agosto 2021"
+  organization:
+    name: ECA Capacitaciones
+    url: https://ecacapacitaciones.com/
+  courseOverview: Curso para dominar Power Query, Power Pivot y MAP asi realizar consultas automaticas a archivos offline o en la nube mejorando la performance y la integridad de los datos.
+  certificateURL: "../files/Analisis de Datos - ECA .pdf"
+
+- name: Data Analytics and Visulization
+  timeline: "Marzo 2021"
+  organization:
+    name: Educación IT
+    url: https://www.educacionit.com/
+  courseOverview: "Cuso integral del proceso del dato hasta convertirse en información y ser presentado en un dashboard. La herramienta con la que se trabajo durante el curso fue Power BI. "
+  certificateURL: "../files/CertificadoDataAnalytics.pdf"
+
+- name: Diplomatura en Business Intelligence
+  timeline: "Noviembre 2020"
+  organization:
+    name: Extensión Universitaria UTNBA
+    url: https://sceu.frba.utn.edu.ar/
+  courseOverview: Curso integral de business intelligence donde se trabajaron casos de estudios reales a los cuales se aplicaron algoritmos estadísticos y de Machine Learning tales como árboles de decisión, regresiones, agrupamientos, reglas de asociasión, redes neuronales, algorítmos genéticos,series temporales, montecarlo, text mining junto con una introducción a Big Data.
+  certificateURL: "../files/CertificadoDiplomaturaEnBI.pdf"
+
+- name: Fundamentos de base de datos
+  timeline: "Septiembre 2020"
+  organization:
+    name: Extensión Universitaria UTNBA
+    url: https://sceu.frba.utn.edu.ar/
+  courseOverview: Curso sobre los fundamentos del lenguaje SQL en Oracle express para crear, alterar y eliminar tablas, datos y vistas en la base de datos.
+  certificateURL: "../files/Certificado-FundBasesDeDatos.pdf"
+
+
+ 
+

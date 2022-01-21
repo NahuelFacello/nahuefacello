@@ -1,0 +1,72 @@
+# section information
+section:
+  name: Experiencia Laboral
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Accenture
+    url: "www.accenture.com"
+    location: Ciudad Autónoma de Buenos Aires
+    # company overview
+    overview: Empresa de servicios de consultoría y tecnología.
+  positions:
+  - designation: Client Financial Management Analyst
+    start: Noviembre 2020
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Soporte financiero offshore en el área de CFM (Client Financial Management) para la región de Estados Unidos.
+    - Gestion y seguimiento de oportunidades, analisis de presupuesto, planeamiento, control de gestión, análisis de costos, gestión de resultados, análisis de desvíos, controles internos y reporting.
+
+- company:
+    name: KANTAR
+    url: "https://www.kantar.com"
+    location: Ciudad Autónoma de Buenos Aires
+    overview: Empresa de consultoría de marketing
+  positions:
+  - designation: Decision Support Analyst
+    start: Noviembre 2019
+    end: Noviembre 2020
+    responsibilities:
+    - Registración y control de revenue y costos directos.
+    - Análisis y armado de orderbook. y forecast de mediano y corto plazo.
+    - Control presupuestario de ordenes de trabajo (costeo por proyecto).
+    - Reporting de cierre mensual y a demanda de las distintas areas de la empresa.
+
+  - designation: Billing Analyst
+    start: Abril 2018
+    end: Noviembre 2019
+    responsibilities:
+    - Facturación a clientes.
+    - Emisión de facturas de crédito y control en AFIP.
+    - Control de percepciones.
+    - Libro IVA ventas.
+    - Soporte al sector de cobranzas.
+    - Alta, gestión y mantenimiento de maestro de proveedores.
+
+- company:
+    name: M.IBERO S.A
+    url: "http://www.mundopremoldeado.com/"
+    location: Quilmes - Buenos Aires
+    overview: Empresa de construcción de cercos de hormigón premoldeado y alquiler de obradores.
+  positions:
+  - designation: Administrativo contable
+    start: Diciembre 2016
+    end: Abril 2018
+    responsibilities:
+    - Conciliaciones.
+    - Cobranzas.
+    - Facturación a clientes.
+    - Emisión de pagos y manejo de chequera.
+    - Atención al público.
+    - Alta de empleados en AFIP.
+    - Armado de contratos y pliegos.
+    - Armado de libro IVA compras - IVA ventas.
