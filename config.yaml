@@ -9,8 +9,6 @@ theme: "toha"
 languages:
   es:
     languageName: Español
-  en:
-    languageName: English
     weight: 1
 
 # Control TOC depth
