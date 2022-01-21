@@ -9,10 +9,7 @@ theme: "toha"
 languages:
   es:
     languageName: Español
-<<<<<<< HEAD
-=======
     weight: 1
->>>>>>> 7cbc2b85ddd05f8adb49ce79d840da0671c16af4
 
 # Control TOC depth
 markup:
