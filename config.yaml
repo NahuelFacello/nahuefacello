@@ -7,6 +7,8 @@ theme: "toha"
 # Manage languages
 # For any more details, you can check the official documentation: https://gohugo.io/content-management/multilingual/
 languages:
+  en:
+    languageName: English
   es:
     languageName: Español
     weight: 1
