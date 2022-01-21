@@ -24,7 +24,7 @@ enableEmoji: true
 # Site parameters
 params:
   # GitHub repo URL of your site
-  gitRepo: https://github.com/NahuelFacello/nahuelfacello
+  gitRepo: https://github.com/NahuelFacello/nahuelfacello.github.io
 
   # specify whether you want to write some blog posts or not
   enableBlogPost: false
