@@ -11,39 +11,38 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Kubernetes
-  logo: /images/sections/skills/kubernetes.png
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  url: "https://kubernetes.io/"
+- name: Power BI
+  logo: /images/sections/skills/PowerBI-Logo.png
+  summary: "Reporting projects mades with Power BI using Power Query, DAX and M."
 
-- name: Go Development
-  logo: /images/sections/skills/go.png
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  url: "https://golang.org/"
+- name: C#
+  logo: /images/sections/skills/Csharp_Logo.png
+  summary: "C and C# programming developing apps with academic purposes"
 
-- name: Cloud Computing
-  logo: /images/sections/skills/cloud.png
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+
+- name: SQL
+  logo: /images/sections/skills/SQL.png
+  summary: "SQL queries mades in Oracle express and MS SQL server with academic purposes"
+
+- name: R 
+  logo: /images/sections/skills/R.png
+  summary: "Basic R programming for develop machine learning algorithms"
 
 - name: Docker
   logo: /images/sections/skills/docker.svg
-  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
-  url: "https://www.docker.com/"
+  summary: "Basic programming and understing of docker used for academic purposes."
+  #url: "https://www.docker.com/"
 
-- name: Prometheus
-  logo: /images/sections/skills/prometheus.png
-  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
-  url: "https://prometheus.io/"
+- name: MS Office
+  logo: /images/sections/skills/OFFICE.png
+  summary: "Advance level of use for MS Office using Word, Power Point, Excel and MS teams"
+
 
 - name: Linux
   logo: /images/sections/skills/linux.png
-  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
+  summary: "Basic knowledge making scripts in bash/shell."
 
 - name: Git
   logo: /images/sections/skills/git.png
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
-  url: "https://git-scm.com/"
+  summary: "Using git for repository purposes."
 
-- name: C++
-  logo: /images/sections/skills/c++.png
-  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."

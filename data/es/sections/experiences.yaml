@@ -16,6 +16,7 @@ experiences:
     location: Ciudad Autónoma de Buenos Aires
     # company overview
     overview: Empresa de servicios de consultoría y tecnología.
+
   positions:
   - designation: Client Financial Management Analyst
     start: Noviembre 2020
@@ -37,7 +38,7 @@ experiences:
     end: Noviembre 2020
     responsibilities:
     - Registración y control de revenue y costos directos.
-    - Análisis y armado de orderbook. y forecast de mediano y corto plazo.
+    - Análisis y armado de orderbook y forecast de mediano y corto plazo.
     - Control presupuestario de ordenes de trabajo (costeo por proyecto).
     - Reporting de cierre mensual y a demanda de las distintas areas de la empresa.
 
