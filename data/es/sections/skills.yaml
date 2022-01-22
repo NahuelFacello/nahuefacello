@@ -22,7 +22,7 @@ skills:
 
 - name: SQL
   logo: /images/sections/skills/SQL.png
-  summary: "Desarrollo de consultas en SQL dentro del ámbito académico en MySQL, Oracle express y MS SQL server"
+  summary: "Desarrollo de consultas en SQL dentro del ámbito académico en Oracle express y MS SQL server"
 
 - name: R 
   logo: /images/sections/skills/R.png
@@ -35,7 +35,7 @@ skills:
 
 - name: Paquete Office
   logo: /images/sections/skills/OFFICE.png
-  summary: "Manejo avanzado de paquete office incluyendo word, power point, excel, MS teams y Access."
+  summary: "Manejo avanzado de paquete office incluyendo Word, Power Point, Excel y MS teams"
 
 
 - name: Linux

@@ -1,16 +1,21 @@
 baseURL: https://hugo-toha.github.io
 
 languageCode: en-us
-title: "Portfolio de Nahuel Facello"
+
 theme: "toha"
 
 # Manage languages
 # For any more details, you can check the official documentation: https://gohugo.io/content-management/multilingual/
+
+defaultContentLanguage: es
 languages:
   en:
     languageName: English
+    title: "Nahuel's Portfolio"
+    weight: 2
   es:
     languageName: Español
+    title: "Portfolio de Nahuel Facello"
     weight: 1
 
 # Control TOC depth
@@ -22,6 +27,8 @@ markup:
 
 # Enable global emoji support
 enableEmoji: true
+
+background: "images/site/default-background.jpg"
 
 # Site parameters
 params:
@@ -38,3 +45,10 @@ params:
   # Currently, you can just hide it from the footer.
   newsletter:
     enable: false
+
+#logo:
+#  main: images/site/logo.png
+#  inverted: images/site/logo.png
+#  favicon: images/site/logo.png
+
+

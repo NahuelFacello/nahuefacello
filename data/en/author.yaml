@@ -2,16 +2,18 @@
 name: "Nahuel Facello"
 nickname: "Nahuel"
 # greeting message before your name. it will default to "Hi! I am" if not provided
-greeting: "Hola! Soy"
+greeting: "Hi! I'm"
 image: "images/author/nahuel.jpg"
 # give your some contact information. they will be used in the footer
 contactInfo:
   email: "nahuel-facello@live.com.at"
+  github: "https://github.com/NahuelFacello"
+  linkedin: "https://www.linkedin.com/in/nahuel-facello/"
   
 
 # some summary about what you do
 summary:
-  - Estudiante de programación en UTN FRA
-  - Estudiante de la carrera de Data Science en Coderhourse
+  - Programming Student [UTN]
+  - Data Science student [Coderhouse]
   - Data lover
-  - Analista de control de gestión en Accenture
+  - Client Financial Management Analyst Accenture

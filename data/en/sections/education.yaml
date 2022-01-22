@@ -10,81 +10,41 @@ section:
   # hideTitle: true
 
 degrees:
-- name: Ph.D in Quantum Cryptography
-  icon: fa-microscope
-  timeframe: 2016-2020
-  institution:
-    name: ABC University of Technology
-    url: "#"
-  grade: #(optional)
-    scale: CGPA
-    achieved: 3.6
-    outOf: 4
-  publications: #(optional)
-  - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    url: "#"
-  - title: Fusce eu augue ut odio porttitor pulvinar.
-    url: "#"
-  - title: Nullam vitae orci tincidunt purus viverra pulvinar.
-    url: "#"
-- name: B.Sc. in Computer Science & Engineering
-  icon: fa-graduation-cap
-  timeframe: 2012-2016
-  institution:
-    name: University of XYZ
-    url: "#"
-  grade: #(optional)
-    scale: CGPA
-    achieved: 3.5
-    outOf: 4
-  takenCourses: #(optional)
-    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
-    showGrades: true
-    collapseAfter: 3
-    courses:
-    - name: Data Structures and Algorithm
-      achieved: 3.75
-      outOf: 4
-    - name: Network Security
-      achieved: 3.80
-      outOf: 4
-    - name: Operating System
-      achieved: 3.5
-      outOf: 4
-    - name: Artificial Intelligent
-      achieved: 3.75
-      outOf: 4
-  publications: #(optional)
-  - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    url: "#"
-  - title: Fusce eu augue ut odio porttitor pulvinar.
-    url: "#"
-  extracurricularActivities: #(optional)
-  - In vitae facilisis est, eget porta sem.
-  - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
-  - Duis sed massa feugiat, ornare justo et, aliquam est.
-  - Pellentesque ut fringilla magna.
-- name: Higher Secondary School Certificate
+- name: Data Scientist
   icon: fa-university
-  timeframe: 2010-2012
+  timeframe: 2021 - current
   institution:
-    name: MST College of Science
-    url: "#"
-  grade: #(optional)
-    scale: GPA
-    achieved: 5
-    outOf: 5
-  extracurricularActivities: #(optional)
-  - In vitae facilisis est, eget porta sem.
-  - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
-  - Duis sed massa feugiat, ornare justo et, aliquam est.
-  - Pellentesque ut fringilla magna.
-- name: Secondary School Certificate
+    name: Coderhouse
+    url: "https://www.coderhouse.com/"
+
+- name: Programmer
+  icon: fa-microscope
+  timeframe: 2020 - current
+  institution:
+    name: Universidad Tecnológica Nacional FRA
+    url: "https://www.fra.utn.edu.ar/"
+  
+- name: Accountant
+  icon: fa-university
+  timeframe: 2019 - deserted
+  institution:
+    name: Universidad de Buenos Aires
+    url: "http://www.economicas.uba.ar/"
+
+- name: Piano teacher
+  icon: fa-music
+  timeframe: 2010 - 2017
+  institution:
+    name: Escuela de Bellas Artes Carlos Morel
+    url: "http://embacarlosmorel.edu.ar/morel/"
+
+- name: Business and Administration
   icon: fa-school
-  timeframe: 2005-2010
+  timeframe: 2007-2013
   institution:
-    name: JK School of Science
+    name: PATER CEE
+    url: "https://njypater.com/"
   grade: #(optional)
-    scale: GPA
-    achieved: 4.5
-    outOf: 5
+    scale: Average
+    achieved: 8.5
+    outOf: 10
