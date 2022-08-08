@@ -11,9 +11,20 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
+
+- name: Python - En proceso
+  logo: /images/sections/skills/python.png
+  summary: Aprendiendo distintos tipos de algoritmos de inteligencia artificial para la carrera de Data Science en Coderhouse.
+
+
 - name: Power BI
   logo: /images/sections/skills/PowerBI-Logo.png
-  summary: "Proyectos de reporting en Power BI con el uso de Power Query, lenguaje DAX y M."
+  summary: "Proyectos de reporting en Power BI con el uso de Power Query, Power Pivot lenguaje DAX y M."
+
+- name: Paquete Office
+  logo: /images/sections/skills/OFFICE.png
+  summary: "Manejo avanzado de paquete office incluyendo Word, Power Point, Excel y MS teams"
+
 
 - name: C#
   logo: /images/sections/skills/Csharp_Logo.png
@@ -24,18 +35,11 @@ skills:
   logo: /images/sections/skills/SQL.png
   summary: "Desarrollo de consultas en SQL dentro del ámbito académico en Oracle express y MS SQL server"
 
-- name: R 
-  logo: /images/sections/skills/R.png
-  summary: "Uso de R para la generar distintos tipos de medidas con el uso de algoritmos de machine learning"
 
 - name: Docker
   logo: /images/sections/skills/docker.svg
   summary: "Conocimiento adquiridos en la universidad para el uso de docker como para la instalacion de programas y sistemas en contenedores."
   #url: "https://www.docker.com/"
-
-- name: Paquete Office
-  logo: /images/sections/skills/OFFICE.png
-  summary: "Manejo avanzado de paquete office incluyendo Word, Power Point, Excel y MS teams"
 
 
 - name: Linux
@@ -45,6 +49,12 @@ skills:
 - name: Git
   logo: /images/sections/skills/git.png
   summary: "Experiencia usando github como reporsitorio de codigo."
+
+- name: R 
+  logo: /images/sections/skills/R.png
+  summary: "Uso de R para la generar distintos tipos de medidas con el uso de algoritmos de machine learning"
+
+
 
 
 
