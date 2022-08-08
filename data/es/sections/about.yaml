@@ -8,7 +8,7 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Client Financial Management Analyst
+designation: Client Financial Management Senior Analyst
 # your company information
 company:
   name: Accenture
@@ -18,7 +18,7 @@ company:
 resume: "files/Nahuel Facello CV.pdf"
 
 # a summary about you
-summary: 'Actualmente me desepeño como Analista de control gestión en Accenture brindando soporte para USA. Me considero una persona proactiva, responsable, detallista, innovadora y entusiasta. Actualmente busco continuar mi desarrollo profesional como científico de datos '
+summary: 'Actualmente me desepeño como analista senior de control gestión en Accenture brindando soporte offshore para USA. Me considero una persona proactiva, responsable, detallista, innovadora y entusiasta. Busco continuar mi desarrollo profesional en el mundo de data como Analista de datos. '
 
 # your social links
 # give as many as you want. use font-awesome for the icons.

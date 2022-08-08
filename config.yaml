@@ -28,7 +28,7 @@ markup:
 # Enable global emoji support
 enableEmoji: true
 
-background: "images/site/default-background.jpg"
+background: "images/site/fondo.jpg"
 
 # Site parameters
 params:
@@ -45,10 +45,15 @@ params:
   # Currently, you can just hide it from the footer.
   newsletter:
     enable: false
+  
+  darkMode:
+    enable: true
+    provider: darkreader
+    default: light
 
-#logo:
-#  main: images/site/logo.png
-#  inverted: images/site/logo.png
-#  favicon: images/site/logo.png
+  logo:
+    main: images/site/nf.png
+    inverted: images/site/nf.png
+    favicon: images/site/nf1.png
 
 

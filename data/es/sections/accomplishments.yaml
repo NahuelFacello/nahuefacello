@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Cursos y certificados
+  name: Cursos y Certificados
   id: accomplishments
   enable: true
   weight: 7
@@ -11,6 +11,32 @@ section:
 
 # Your accomplishments
 accomplishments:
+
+- name: Python de cero a intermedio
+  timeline: "Mayo 2022"
+  organization:
+    name: ECA Capacitaciones
+    url: https://ecacapacitaciones.com/
+  courseOverview: Programacion en python aprendiendo los tipos de variables y la creacion de funciones.
+  certificateURL: "../files/Certificado-Python.pdf"
+
+- name: SQL desde cero
+  timeline: "Mayo 2022"
+  organization:
+    name: ECA Capacitaciones
+    url: https://ecacapacitaciones.com/
+  courseOverview: Consultas y modificacion de bases de datos utilizando MySQL.
+  certificateURL: "../files/CertificadoSQLDesdeCero.pdf"
+
+- name: Data Analytics
+  timeline: "Febrero 2022"
+  organization:
+    name: Coderhouse
+    url: 'https://www.coderhouse.com/'
+  courseOverview: Desarrollo de consultas en MS SQL Server, aprendizaje de lenguaje DAX y Power BI para desarrollar un proyecto en Power BI y presentacion de índole gerencial.
+  certificateURL: "../files/Certificado_data_analytics.png" 
+
+
 - name: Excel para Análisis de Datos
   timeline: "Agosto 2021"
   organization:
@@ -42,6 +68,8 @@ accomplishments:
     url: https://sceu.frba.utn.edu.ar/
   courseOverview: Curso sobre los fundamentos del lenguaje SQL en Oracle express para crear, alterar y eliminar tablas, datos y vistas en la base de datos.
   certificateURL: "../files/Certificado-FundBasesDeDatos.pdf"
+
+
 
 
  
